@@ -1,0 +1,13 @@
+{
+  "id": "google-duo",
+  "name": "google-duo",
+  "version": "1.0.0",
+  "description": "Google Duo",
+  "main": "index.js",
+  "author": "Duncan",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://duo.google.com",
+    "hasNotificationSound": true
+  }
+}
